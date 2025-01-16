@@ -1,7 +1,7 @@
 {
   "name": "culver",
   "version": "0.1.0",
-  "homepage": "https://willo-keefe.github.io/",
+  "homepage": "https://willo-keefe.github.io",
   "private": true,
   "dependencies": {
     "autoprefixer": "^10.4.20",
